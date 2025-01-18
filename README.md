@@ -2,7 +2,7 @@
 [![codecov](https://codecov.io/gh/learning-process/ppc-2024-autumn/graph/badge.svg?token=qCOtqeFyIz)](https://codecov.io/gh/learning-process/ppc-2024-autumn)
 
 # Parallel-Programming-MPI
-> All my work is located in the branch [baranov_a_branch](https://github.com/learning-process/ppc-2024-autumn/tree/baranov_a_branch)
+> All my work is located in the branch [baranov_a_branch](https://github.com/Torcna/Parallel-Programming-MPI/tree/baranov_a_branch)
 
 ## Implemented tasks:
 - **Number of Orderly Violations**  
